@@ -8,9 +8,9 @@
 let myString = "You have received this message because you have been chosen to open an important vault.  Here is the secret combination:"
 
 // Step 2: Use operaters to assign the correct values
-num1 = 3 + 7;
-num2 = 10 * 4;
-num3 = 45 - 6;
+const num1 = 3 + 7;
+const num2 = 10 * 4;
+const num3 = 45 - 6;
 
 // Step 3: Create an alert using a string literal to display the message & code
 alert(`${myString} ${num1} - ${num2} - ${num3}`)
